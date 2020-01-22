@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-Dante/lab01/pull/1)
 - [ci/cd]() (GitHub Actions)
 
 ### Setup
